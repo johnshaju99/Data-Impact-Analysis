@@ -1,1 +1,3 @@
 # Data-Impact-Analysis
+•	Tata motors is one of leading car manufactures in the world based in India. Tata Motors has a strong global network of subsidiaries and associate companies, including Jaguar Land Rover in the UK and Tata Daewoo in South Korea. Our international footprint was established with our first export in 1961.
+•	The main problem faced by the company is the huge loss incurred by the company. This is due to the negative loss, or the lack of sales incurred by the company due to many distinct factors. Increasing cost of raw material has played a significant role in the loss occurred by the company. 
